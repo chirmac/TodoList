@@ -43,7 +43,7 @@
                 android:layout_marginEnd="16dp"
                 android:layout_marginBottom="8dp"
                 android:padding="8dp"
-                android:text="@{todo.todoTitle}"
+                android:text="@{todo.title}"
                 android:textAlignment="viewStart"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 app:layout_constrainedWidth="true"
